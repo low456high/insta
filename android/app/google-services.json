@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "994857920713",
+    "project_id": "facial-recognition-cc2ca",
+    "storage_bucket": "facial-recognition-cc2ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994857920713:android:cd71f6e6bf26a7d19bc518",
+        "android_client_info": {
+          "package_name": "com.asif.facecapture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994857920713-fkumnttsstbaapcbbtah7svnorqnqhih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHPVoD32tiIVFLQVdDqZeYqGSGns9brvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994857920713-fkumnttsstbaapcbbtah7svnorqnqhih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994857920713:android:1d42d7d61fb7afa09bc518",
+        "android_client_info": {
+          "package_name": "com.example.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994857920713-fkumnttsstbaapcbbtah7svnorqnqhih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHPVoD32tiIVFLQVdDqZeYqGSGns9brvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994857920713-fkumnttsstbaapcbbtah7svnorqnqhih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
